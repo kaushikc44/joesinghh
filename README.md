@@ -10,11 +10,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joesinghh&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" alt="JogendraSingh" align="right" />
 </a>
 
-- 🏫 &nbsp;Pursuing BCA at **Christ University, bangalore**.
+- 🏫 &nbsp;Pursuing BTECH.
 - 🕸️ &nbsp;I’m currently learning about **Web 3.0**.
 - 💬 &nbsp;I like to talk about **Web 3.0** and **Python**.
 - 👨‍💼 &nbsp;I work as a freelance python developer.
-- 🍓 &nbsp;I love anime, food, and music 🎵.
+- 🍓 &nbsp;I love anime, gaming specially souls games any day.
 - 🔮 &nbsp;Feel free to ask for help :)
 - 💻 &nbsp;Let's connect on **[LinkedIn]** and **[Twitter]**.
 
@@ -92,15 +92,6 @@
 <div align=center>
 <br>
 
-[![josingh481@gmail gmail](https://img.shields.io/badge/Gmail-E4405F?style=style=flat-square&logo=gmail&logoColor=red&color=white)](mailto:josingh481@gmail.com)
-[![Jogendra StackOverflow](https://img.shields.io/badge/-StackOverflow-D14836?style=style=flat-square&logo=stackoverflow&logoColor=ff5833&color=ff9e38)](https://stackoverflow.com/users/14537080/jogendra?tab=profile)
-[![Jogendra LinkedIn](https://img.shields.io/badge/-LinkedIn-D14836?style=style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jogendra-singh-bangalore/)
-[![@joe__singh Twitter](https://img.shields.io/badge/-Twitter-informational?style=style=flat-square&logo=twitter&logoColor=white&colorB=00acee)](https://twitter.com/iamjogendra/)
-<!-- [![jogendrasing481 fiverr](https://img.shields.io/badge/-Fiverr-informational?style=style=flat-square&logo=fiverr&logoColor=white&colorB=1dbf73)](https://fiverr.com/jogendrasing481) -->
-<!-- [![code.with.joe instagram](https://img.shields.io/badge/-INSTAGRAM-informational?style=style=flat-square&logo=instagram&logoColor=white&color=grey)](https://instagram.com/codezeal/) -->
- <!-- [![Code With Joe youtube](https://img.shields.io/badge/-YOUTUBE-informational?style=style=flat-square&logo=youtube&logoColor=white&color=red)](https://www.youtube.com/channel/UCMBs4E6MY4qjEVJBywr7l5Q) -->
-</div>
-</details>
 
 <!-- <details open>
 <summary style="cursor: pointer;">GITHUB STATS</summary>
@@ -114,8 +105,8 @@
 </details> -->
 
 
-[linkedin]: https://www.linkedin.com/in/jogendra-singh-bangalore "LinkedIn"
-[twitter]: https://twitter.com/iamjogendra "Twitter"
+[linkedin]:https://www.linkedin.com/in/kaushik-choudhury-4268b456/ "LinkedIn"
+[twitter]: https://twitter.com/Kaushik02052914 "Twitter"
 
 <!-- GIFs -->
 <!--  <img src="https://uploads.scratch.mit.edu/users/avatars/59579291.png" align="right"> -->
